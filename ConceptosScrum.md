@@ -16,3 +16,9 @@ Son las herramientas o elementos que se utilizan para el registro de la informac
 1. Product backlog : Plan o pila del producto. Requisitos globales del producto a desarrollar.
 2. Sprint backlog : Plan o pila de un sprint. La parte del product backlog a realizar en un sprint.
 3. Incremento : Resultado que se obtiene de cada sprint.
+
+# Roles del equipo SCRUM
+
+1. Propietario del producto: es el responsable de la visión del producto.
+2. Scrum Master: responsable de asistir al equipo y la organización en la implementación de scrum.
+3. Equipo de desarrollo: responsable de construir la solución (producto).
