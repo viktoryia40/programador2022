@@ -19,6 +19,6 @@ Son las herramientas o elementos que se utilizan para el registro de la informac
 
 # Roles del equipo SCRUM
 
-1. Propietario del producto: es el responsable de la visión del producto.
-2. Scrum Master: responsable de asistir al equipo y la organización en la implementación de scrum.
-3. Equipo de desarrollo: responsable de construir la solución (producto).
+1. Product Owner o Propietario del producto: es el responsable de la visión del producto,trabaja con las partes interesadas,los usuarios finales y el equipo de Scrum para asegurarse de que el producto final cumpla con los requisitos y objetivos.
+2. Scrum Master o Facilitador: responsable de asistir al equipo y la organización en la implementación de scrum.
+3. Scrum Team,Equipo de desarrollo: responsable de construir la solución (producto).
