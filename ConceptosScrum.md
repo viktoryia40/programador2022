@@ -1,5 +1,14 @@
 # programador2022
-Ejercicio profesional
+Proyecto Integrador
+
+# Qué es Scrum:
+Scrum es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos,
+a la vez que se entregan productos de forma eficiente y creativa con el máximo valor.
+Es un enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo.
+Utiliza procesos interactivos/incrementales.
+Orientado a resultados y compromisos.
+No está restringido a proyectos de software solamente.
+Su visión es opuesta a la propuesta por la metodología en cascada.
 
 # Ceremonias
 
@@ -24,6 +33,7 @@ Son las herramientas o elementos que se utilizan para el registro de la informac
 3. Scrum Team,Equipo de desarrollo: responsable de construir la solución (producto).
 4. 
 # Pilares 
+
 1: Transparencia: los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. 
 La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento 
 común de lo que están viendo.
