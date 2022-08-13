@@ -42,7 +42,7 @@ foreign key(Perro) references Perro(ID_Perro)
 insert into Historial (Perro, Fecha, Descripcion, Monto) values (1,"2022-08-10","Corte de pelo","5000"),(2,"2022-08-09","Corte de pelo","4000"),(3,"2022-08-08","Baño","2000"),
 (4,"2022-08-08","Baño","2500"),(5,"2022-08-08","corte de uñas","1500");
 
-
+/* Ejercicio 5 Realice una consulta multitabla que arroje el nombre de todos los perros cuyos dueños se llaman Pedro */
 Select P.Nombre as Nombre_perro, D.Nombre as Nombre_dueno
 from Perro P, Dueno D
 where D.DNI = P.DNI_dueno and (D.Nombre="Pedro");
