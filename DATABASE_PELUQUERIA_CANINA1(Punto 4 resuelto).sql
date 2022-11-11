@@ -1,5 +1,5 @@
-create database if not exists peluqueria_canina;
-use peluqueria_canina;
+create database if not exists peluqueria_canina1;
+use peluqueria_canina1;
 
 create table if not exists Dueno (
 DNI int not null,
@@ -27,6 +27,15 @@ Foreign key (DNI_dueno) references Dueno(DNI)
 );
 insert into Perro (DNI_dueno, Nombre, Fecha_nac, Sexo) values ("42700199","Fifi","2022-08-26","F"),("25476333","Toto","2017-05-13","M"),("24485996","Pichichu","2013-03-18","F"),
 ("43256662","Guauguau","2021-01-23","M"),("32496512","Tobi","2020-04-15","F");
+
+------ ITEM CUATRO----ACTUALIZAR FECHA DE NACIMIENTO DE ALGUN PERRO-----------
+select * from perro;
+
+UPDATE Perro SET Fecha_nac = "2022-05-04" WHERE ID_Perro = 5;
+
+
+
+
 
 Create table if not exists Historial (
 ID_Historial int not null auto_increment,
